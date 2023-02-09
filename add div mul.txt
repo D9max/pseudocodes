@@ -1,0 +1,16 @@
+begin 
+number num1, num2
+print("enter a first number")
+num1
+print("enter a first number")
+num2
+addition=num1 + num2
+subtraction=num1 - num2
+multiplication= num1 * num2
+division= num1 /num2
+print("addition of two numbers",addition)
+print(" subtraction of two numbers",subtraction)
+print("multiplication of two numbers",multiplication)
+print("division of two numbers",division)
+end
+

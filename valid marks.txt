@@ -1,0 +1,9 @@
+begin
+number marks
+print ("enter marks")
+input marks
+if (marks < = 100)
+print (valid)
+if (marks > 0)
+print(not valid)
+end

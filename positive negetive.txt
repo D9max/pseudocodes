@@ -1,0 +1,12 @@
+begin
+ 
+number num
+ 
+output "Enter a Number"
+input num
+ 
+if num>0  then
+     output "Entered number is positive"
+else if num <0 then
+     output "Entered number is negative" 
+end

@@ -1,0 +1,16 @@
+begin
+
+number basic_salary,gross,hra,da;
+
+print("basic salary of employee")
+
+input basic_salary
+
+ 		hra=(basic_salary *67)/100
+		da=(basic_salary * 89)/100
+
+gross=basic_salary+hra+da
+
+print("gross salary is", gross)
+
+end

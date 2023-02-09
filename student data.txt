@@ -1,0 +1,28 @@
+begin
+String name, email, college, city
+number marks, mobile, n
+print ("enter number of the student")
+input n
+print ("enter name")
+input name
+print ("enter marks")
+input marks
+print ("enter mobile")
+input mobile
+print ("enter email")
+input email
+print ("enter college")
+input college
+print ("enter city")
+input city
+print ("student name", name)
+print ("student marks", marks)
+print ("  mobile", mobile)
+print ("student email ", email)
+print ("college", college)
+print ("city", city)
+ 
+end
+
+
+

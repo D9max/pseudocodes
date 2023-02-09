@@ -1,0 +1,26 @@
+student marks
+
+If the average of marks is >=90 then prints Grade ‘A’
+If the average is <70 and >=90 then prints Grade ‘B’
+If the average is <50 and >=70then prints Grade ‘C’
+else prints Grade ‘D’
+
+-----------------------------------------------------------------------------------------
+logic
+
+if(avg>=90)
+        {
+            System.out.print("A");
+        }
+        else if(avg>=70 && avg<90)
+        {
+           System.out.print("B");
+        } 
+        else if(avg>=50 && avg<70)
+        {
+            System.out.print("C");
+        }
+        else
+        {
+            System.out.print("D");
+        }

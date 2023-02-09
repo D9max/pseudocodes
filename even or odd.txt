@@ -1,0 +1,18 @@
+ begin
+
+ Print "Enter Any Number to Check, Even or Odd"
+
+ Read input of a number
+
+ if (num = 0){
+print ("zero")
+}
+else if {
+if(num % 2 == 0){
+print("even number")
+}
+ else{
+print("odd number")
+}
+
+end
